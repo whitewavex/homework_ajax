@@ -1,0 +1,7 @@
+button {
+  width: 100px;
+  height: 30px;
+  background-color: aquamarine;
+  font-weight: bold;
+  -webkit-border-radius: 5px;
+          border-radius: 5px; }
